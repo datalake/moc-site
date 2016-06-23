@@ -1,0 +1,4 @@
+# robots.txt for http://data-lake.net
+
+User-agent: *
+Disallow: /assets/
